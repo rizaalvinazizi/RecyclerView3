@@ -46,6 +46,7 @@ public class InputActivity extends AppCompatActivity {
             }
         });
 
+
         hotel = (Hotel) getIntent().getSerializableExtra(MainActivity.HOTEL);
         if (hotel != null) {
             setTitle("Edit " + hotel.judul);
