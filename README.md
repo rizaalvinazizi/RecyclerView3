@@ -1,9 +1,14 @@
 #<p align="center"> RecyclerView3 </p>
 
 ### A. Screenshot
-<br>![Gambar1](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1.JPG)
-<br>![Gambar2](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1a.JPG)
-<br>![Gambar3](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1b.JPG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3a.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3b.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3c.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3d.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3e.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3f.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3g.PNG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView3/blob/master/3h.PNG)
 
 ### B. Identitas
 <br>Nama : Riza Alvin Azizi
